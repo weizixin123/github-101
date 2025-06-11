@@ -1,5 +1,6 @@
 # github-101
-itHub Pages Exercise ===========
+GitHub Pages Exercise 
+===========
 Involves 
 * git
 * GitHub
